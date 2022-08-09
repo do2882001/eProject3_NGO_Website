@@ -7,5 +7,6 @@ namespace eProject3_NGO_Website.Models
 {
     public class Phong
     {
+        int a = 1; 
     }
 }
